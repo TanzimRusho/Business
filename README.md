@@ -13,5 +13,7 @@ Helpful links related to different industries and businesses.
 
     https://www.youtube.com/watch?v=0vPCN6X3FUI&ab_channel=AIMSEducation%2CUK
  
+4.  What is a BATNA?
 
+    https://www.pon.harvard.edu/tag/batna/
 
