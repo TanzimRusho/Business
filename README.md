@@ -18,6 +18,8 @@ Helpful links related to different industries and businesses.
     https://www.pon.harvard.edu/tag/batna/
 
 # International Affairs
-1. https://www.aljazeera.com/news/2021/7/25/timeline-major-events-in-us-china-relations-since-1949
+1. Timeline: Major events in US-China relations since 1949
+
+    https://www.aljazeera.com/news/2021/7/25/timeline-major-events-in-us-china-relations-since-1949
 
 
