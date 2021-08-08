@@ -19,6 +19,11 @@ Helpful links related to different industries, businesses and management.
 
     https://www.pon.harvard.edu/tag/batna/
 
+# Human Resource Management
+1. Job Description Format For An NGO 
+    
+   https://www.citehr.com/22707-job-description-format-ngo.html
+
 # Bangladesh Affairs
 1. How Dhaka's urban poor are dealing with COVID-19
 
