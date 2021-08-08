@@ -1,21 +1,28 @@
 # Business
-Helpful links related to different industries and businesses. 
+Helpful links related to different industries, businesses and management. 
 
+# Industries
 1.  Difference between Knits Garment and Woven Garment
 
     https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html
-    
-2.  Conflict – The Dual Concerns Model
+
+# Management Concepts
+1.  Conflict – The Dual Concerns Model
 
     https://sites.psu.edu/newonlinebsbpsuwsba322/conflict-the-dual-concerns-model/    
     
-3.  Project Management Organizational Structure - Its Definition, Types and Charts | AIMS Lecture
+2.  Project Management Organizational Structure - Its Definition, Types and Charts | AIMS Lecture
 
     https://www.youtube.com/watch?v=0vPCN6X3FUI&ab_channel=AIMSEducation%2CUK
  
-4.  What is a BATNA?
+3.  What is a BATNA?
 
     https://www.pon.harvard.edu/tag/batna/
+
+# Bangladesh Affairs
+1. How Dhaka's urban poor are dealing with COVID-19
+
+   https://www.iied.org/how-dhakas-urban-poor-are-dealing-covid-19
 
 # International Affairs
 1. Timeline: Major events in US-China relations since 1949
