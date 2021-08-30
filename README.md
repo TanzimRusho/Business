@@ -14,6 +14,7 @@ Helpful links related to different industries, businesses and management.
 # Human Resource Management
 1. [Job Description Format For An NGO](https://www.citehr.com/22707-job-description-format-ngo.html)
 2. [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
+3. [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
 
 # Bangladesh Affairs
 1. [How Dhaka's urban poor are dealing with COVID-19](https://www.iied.org/how-dhakas-urban-poor-are-dealing-covid-19)
