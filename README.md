@@ -2,7 +2,8 @@
 Helpful links related to different industries, businesses and management. 
 
 # Industries
-1.  [Difference between Knits Garment and Woven Garment](https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html)
+1. [Difference between Knits Garment and Woven Garment](https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html)
+2. [সিটিসেল কেন ব্যর্থ?](https://m.youtube.com/watch?v=3koFSAw6s-4&list=PL4XLLGJBEpoQcHvqlT6G3GXhRtXIftptd&index=2)
 
 # Management Concepts
 1.  [Conflict – The Dual Concerns Model](https://sites.psu.edu/newonlinebsbpsuwsba322/conflict-the-dual-concerns-model/)    
