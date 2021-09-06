@@ -25,4 +25,5 @@ Helpful links related to different industries, businesses and management.
 # International Affairs
 1. [Timeline: Major events in US-China relations since 1949](https://www.aljazeera.com/news/2021/7/25/timeline-major-events-in-us-china-relations-since-1949)
 
-
+# Technical Writing
+1. [Laying Out a Quote Slide in PowerPoint](https://training-nyc.com/learn/powerpoint/quote-slide)
