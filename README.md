@@ -1,5 +1,5 @@
 # Business
-Helpful links related to different industries, businesses and management. 
+MBA term papers and helpful links related to different industries, businesses and management. 
 
 # Industries
 1. [Difference between Knits Garment and Woven Garment](https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html)
