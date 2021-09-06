@@ -12,6 +12,8 @@ Helpful links related to different industries, businesses and management.
  
 3.  [What is a BATNA?](https://www.pon.harvard.edu/tag/batna/)
 
+4. [French and Raven's Five Forms of Power](https://www.mindtools.com/pages/article/newLDR_56.htm)
+
 # Human Resource Management
 1. [Job Description Format For An NGO](https://www.citehr.com/22707-job-description-format-ngo.html)
 2. [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
