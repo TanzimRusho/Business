@@ -19,6 +19,9 @@ MBA term papers and helpful links related to different industries, businesses an
 2. [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
 3. [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
 
+# Managerial Negotiations
+1. [Bargaining Principles](http://faculty.washington.edu/vandra/html/negbargprinc2.html#:~:text=The%20bargaining%20mix%20is%20the%20package%20of%20issues%20up%20for%20negotiation.&text=The%20point%20beyond%20which%20a,Positive%20Bargaining%20Range.)
+
 # Bangladesh Affairs
 1. [How Dhaka's urban poor are dealing with COVID-19](https://www.iied.org/how-dhakas-urban-poor-are-dealing-covid-19)
 
