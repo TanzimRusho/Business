@@ -12,9 +12,10 @@ MBA term papers and helpful links related to different industries, businesses an
 * [French and Raven's Five Forms of Power](https://www.mindtools.com/pages/article/newLDR_56.htm)
 
 # Human Resource Management
-1. [Job Description Format For An NGO](https://www.citehr.com/22707-job-description-format-ngo.html)
-2. [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
-3. [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
+* [Job Description Format For An NGO](https://www.citehr.com/22707-job-description-format-ngo.html)
+* [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
+* [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
+* [Goals | Steven Kovey](https://www.youtube.com/watch?v=ytjeyqlTjyY) 
 
 # Managerial Negotiations
 * [Bargaining Principles](http://faculty.washington.edu/vandra/html/negbargprinc2.html#:~:text=The%20bargaining%20mix%20is%20the%20package%20of%20issues%20up%20for%20negotiation.&text=The%20point%20beyond%20which%20a,Positive%20Bargaining%20Range.)
