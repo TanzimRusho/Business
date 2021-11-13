@@ -17,6 +17,9 @@ MBA term papers and helpful links related to different industries, businesses an
 * [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
 * [Goals | Steven Kovey](https://www.youtube.com/watch?v=ytjeyqlTjyY) 
 
+# Leadership, Power, and Influence
+* [The Blake Mouton Grid - Leading People and Producing Results](https://www.mindtools.com/pages/article/newLDR_73.htm)
+
 # Managerial Negotiations
 * [Bargaining Principles](http://faculty.washington.edu/vandra/html/negbargprinc2.html#:~:text=The%20bargaining%20mix%20is%20the%20package%20of%20issues%20up%20for%20negotiation.&text=The%20point%20beyond%20which%20a,Positive%20Bargaining%20Range.)
 * [What is a BATNA?](https://www.pon.harvard.edu/tag/batna/)
