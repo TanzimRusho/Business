@@ -26,6 +26,7 @@ MBA term papers and helpful links related to different industries, businesses an
 
 ## Bangladesh Affairs
 1. [How Dhaka's urban poor are dealing with COVID-19](https://www.iied.org/how-dhakas-urban-poor-are-dealing-covid-19)
+2. [প্রতিদিন তৈরি হচ্ছে ২০০-এর বেশি রিকশা](https://www.prothomalo.com/bangladesh/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B6%E0%A6%BE)
 
 ## International Affairs
 1. [Timeline: Major events in US-China relations since 1949](https://www.aljazeera.com/news/2021/7/25/timeline-major-events-in-us-china-relations-since-1949)
