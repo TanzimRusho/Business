@@ -19,6 +19,7 @@ MBA term papers and helpful links related to different industries, businesses an
 * [HUMAN RESOURCE DEVELOPMENT: BANGLADESH PERSPECTIVE](https://core.ac.uk/download/pdf/229279767.pdf)
 * [HRM Practices of CP Bangladesh Company Limited](https://www.assignmentpoint.com/business/human-resource-management/hrm-practices-of-c-p-bangladesh-company-limited.html)
 * [Goals | Steven Kovey](https://www.youtube.com/watch?v=ytjeyqlTjyY) 
+* [Difference between Performance Appraisal and Job Evaluation](https://www.techniajz.com/blog-detail/what-is-performance-appraisal-and-job-evaluation-the-difference-between-these-two-1#:~:text=Performance%20Appraisal%20is%20an%20analysis,value%2Fworth%20of%20the%20job.)
 
 ## Leadership, Power, and Influence
 * [The Blake Mouton Grid - Leading People and Producing Results](https://www.mindtools.com/pages/article/newLDR_73.htm)
