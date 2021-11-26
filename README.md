@@ -2,8 +2,11 @@
 MBA term papers and helpful links related to different industries, businesses and management. 
 
 ## Industries
-1. [Difference between Knits Garment and Woven Garment](https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html)
-2. [সিটিসেল কেন ব্যর্থ?](https://m.youtube.com/watch?v=3koFSAw6s-4&list=PL4XLLGJBEpoQcHvqlT6G3GXhRtXIftptd&index=2)
+* [Difference between Knits Garment and Woven Garment](https://www.onlineclothingstudy.com/2016/09/difference-between-knits-garment-and.html)
+* [সিটিসেল কেন ব্যর্থ?](https://m.youtube.com/watch?v=3koFSAw6s-4&list=PL4XLLGJBEpoQcHvqlT6G3GXhRtXIftptd&index=2)
+
+## Online Markets
+* [বিক্রয় ডট কমে এ্যাড দিতে কী টাকা লাগে?](https://bikroy.com/bn/allowance) 
 
 ## Management Concepts
 * [Types of Strategies – 5 Levels of Strategy & Best Comparison](https://higherstudy.org/types-strategies-strategic-management/)
